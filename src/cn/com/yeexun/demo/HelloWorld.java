@@ -6,5 +6,6 @@ package cn.com.yeexun.demo;
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("hello, idea.");
+        System.out.println("this is an adding commit.");
     }
 }
